@@ -1,0 +1,24 @@
+.header{
+    background-color: aqua;
+    text-align: center;
+    background-image: url(file:///C:/Users/Dell/OneDrive/Desktop/project1/suk.jfif);
+    background-size: cover;
+}
+
+.nav{
+   background-color: black;
+   color: white;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 10px;
+}
+a{
+    color: white;
+}
+
+h1{
+    font-size: 45px;
+    margin: 300px;
+}
+
